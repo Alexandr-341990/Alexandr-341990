@@ -2,13 +2,13 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" style="pointer-events: none;"/>
 </div>
 
-# Добро пожаловать в мой GitHub профиль! 👋
+# Welcome to my GitHub profile! 👋
 
 Hi! I'm Αλεξάντερ Μαντιμπάεφ
 
 ## Contact's
 
-Если у вас есть вопросы или предложения, не стесняйтесь связаться со мной/If you have questions or suggestions, feel free to contact me:
+If you have any questions or suggestions, feel free to contact me
 
 <div id="badges">
   <a href="https://t.me/Alexandr_Madibaev">
@@ -19,12 +19,12 @@ Hi! I'm Αλεξάντερ Μαντιμπάεφ
   </a>
 </div>
 
-## Статистика GitHub
+## GitHub Stats
 
 ![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=AlexandrMadibaev&show_icons=true&count_private=true&hide=prs&theme=radical)
 
 
-## Языки и технологии
+## Skills
 
 <div style="display: flex; justify-content: space-around;">
     <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="40" height="40" style="pointer-events: none;"/>
@@ -33,4 +33,4 @@ Hi! I'm Αλεξάντερ Μαντιμπάεφ
     <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40" style="pointer-events: none;"/>
 </div>
 
-Благодарю за посещение моего профиля! 😊
+Thank you for visiting my profile! 😊

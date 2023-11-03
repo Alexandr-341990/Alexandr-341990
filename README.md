@@ -21,8 +21,10 @@ If you have any questions or suggestions, feel free to contact me
 
 ## GitHub Stats
 
-![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=AlexandrMadibaev&show_icons=true&count_private=true&hide=prs&theme=radical)
+![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=AlexandrMadibaev&show_icons=true&count_private=true&hide=prs&theme=highcontrast)
 
+## TOP Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandrMadibaev&theme=highcontrast)
 
 ## Skills
 

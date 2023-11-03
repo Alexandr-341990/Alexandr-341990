@@ -21,7 +21,7 @@
 
 ## Статистика GitHub
 
-![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=Alexandr-341990&show_icons=true&count_private=true&hide=prs&theme=radical)
+![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=AlexandrMadibaev&show_icons=true&count_private=true&hide=prs&theme=radical)
 
 
 ## Языки и технологии

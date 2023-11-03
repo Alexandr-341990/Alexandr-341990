@@ -4,7 +4,7 @@
 
 # Welcome to my GitHub profile! 👋
 
-# Hi! I'm Αλεξάντερ Μαντιμπάεφ
+## Hi! I'm Αλεξάντερ Μαντιμπάεφ
 
 ## Contact's
 

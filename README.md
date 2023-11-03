@@ -14,7 +14,7 @@
   <a href="https://t.me/Alexandr_Madibaev">
     <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="a.madibaev@gmail.com">
+  <a href="https://a.madibaev@gmail.com">
     <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="G-mail Badge"/>
   </a>
 </div>

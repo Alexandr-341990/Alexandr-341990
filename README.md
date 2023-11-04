@@ -4,10 +4,6 @@
 
 # Welcome to my GitHub profile! 👋
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
 
 ## Hi! I'm Αλεξάντερ Μαντιμπάεφ 🇬🇷, IT Programmer from Tajikistan
 
